@@ -1,0 +1,113 @@
+---
+object: card
+id: 0521bf0c-9f43-402e-8065-d2fc02e20194
+oracle_id: c8b49b28-d364-4cf0-a2a5-56f6f7dc1b22
+multiverse_ids:
+- 12946
+mtgo_id: 12599
+mtgo_foil_id: 12600
+tcgplayer_id: 6319
+cardmarket_id: 10611
+name: Giant Cockroach
+lang: en
+released_at: '1999-02-15'
+uri: https://api.scryfall.com/cards/0521bf0c-9f43-402e-8065-d2fc02e20194
+scryfall_uri: https://scryfall.com/card/ulg/54/giant-cockroach?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/5/0521bf0c-9f43-402e-8065-d2fc02e20194.jpg?1562862301
+  normal: https://cards.scryfall.io/normal/front/0/5/0521bf0c-9f43-402e-8065-d2fc02e20194.jpg?1562862301
+  large: https://cards.scryfall.io/large/front/0/5/0521bf0c-9f43-402e-8065-d2fc02e20194.jpg?1562862301
+  png: https://cards.scryfall.io/png/front/0/5/0521bf0c-9f43-402e-8065-d2fc02e20194.png?1562862301
+  art_crop: https://cards.scryfall.io/art_crop/front/0/5/0521bf0c-9f43-402e-8065-d2fc02e20194.jpg?1562862301
+  border_crop: https://cards.scryfall.io/border_crop/front/0/5/0521bf0c-9f43-402e-8065-d2fc02e20194.jpg?1562862301
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Creature — Insect
+oracle_text: ''
+power: '4'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 78ced61b-4b8a-4b33-b6b2-f5bd66f1a75a
+set: ulg
+set_name: Urza's Legacy
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/78ced61b-4b8a-4b33-b6b2-f5bd66f1a75a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aulg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ulg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0521bf0c-9f43-402e-8065-d2fc02e20194/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac8b49b28-d364-4cf0-a2a5-56f6f7dc1b22&unique=prints
+collector_number: '54'
+digital: false
+rarity: common
+flavor_text: If the sun ever hit the swamp, where would these scurry to?
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Heather Hudson
+artist_ids:
+- 4441fe52-9e41-40c1-9b74-8510426279ab
+illustration_id: 6e0dd9c4-4b5e-451e-ab25-192f9feff5cc
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 22253
+penny_rank: 14760
+prices:
+  usd: '0.07'
+  usd_foil: '1.16'
+  usd_etched: 
+  eur: '0.04'
+  eur_foil: '4.20'
+  tix: '0.11'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12946
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Giant+Cockroach&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Giant+Cockroach&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Giant+Cockroach
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6319?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Giant+Cockroach&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/12599?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

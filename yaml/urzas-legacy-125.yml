@@ -1,0 +1,111 @@
+---
+object: card
+id: 5c2592c9-7e64-40c1-a9cb-c0994094a1e0
+oracle_id: 22ba474e-f6e6-450d-a4cf-0739f0b51079
+multiverse_ids:
+- 8897
+mtgo_id: 12743
+mtgo_foil_id: 12744
+tcgplayer_id: 6300
+cardmarket_id: 10682
+name: Defense Grid
+lang: en
+released_at: '1999-02-15'
+uri: https://api.scryfall.com/cards/5c2592c9-7e64-40c1-a9cb-c0994094a1e0
+scryfall_uri: https://scryfall.com/card/ulg/125/defense-grid?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/c/5c2592c9-7e64-40c1-a9cb-c0994094a1e0.jpg?1562863264
+  normal: https://cards.scryfall.io/normal/front/5/c/5c2592c9-7e64-40c1-a9cb-c0994094a1e0.jpg?1562863264
+  large: https://cards.scryfall.io/large/front/5/c/5c2592c9-7e64-40c1-a9cb-c0994094a1e0.jpg?1562863264
+  png: https://cards.scryfall.io/png/front/5/c/5c2592c9-7e64-40c1-a9cb-c0994094a1e0.png?1562863264
+  art_crop: https://cards.scryfall.io/art_crop/front/5/c/5c2592c9-7e64-40c1-a9cb-c0994094a1e0.jpg?1562863264
+  border_crop: https://cards.scryfall.io/border_crop/front/5/c/5c2592c9-7e64-40c1-a9cb-c0994094a1e0.jpg?1562863264
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: Each spell costs {3} more to cast except during its controller's turn.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 78ced61b-4b8a-4b33-b6b2-f5bd66f1a75a
+set: ulg
+set_name: Urza's Legacy
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/78ced61b-4b8a-4b33-b6b2-f5bd66f1a75a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aulg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ulg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5c2592c9-7e64-40c1-a9cb-c0994094a1e0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A22ba474e-f6e6-450d-a4cf-0739f0b51079&unique=prints
+collector_number: '125'
+digital: false
+rarity: rare
+flavor_text: |-
+  "We've managed to keep the goblins in their assigned areas, but there's little we can do about the smell."
+  —Whip Tongue, viashino technician
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: 3e73d572-1b1a-42f2-820a-f352b2770710
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2748
+penny_rank: 2908
+prices:
+  usd: '5.92'
+  usd_foil: '89.99'
+  usd_etched: 
+  eur: '3.87'
+  eur_foil: '110.00'
+  tix: '0.33'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=8897
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Defense+Grid&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Defense+Grid&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Defense+Grid
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6300?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Defense+Grid&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/12743?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

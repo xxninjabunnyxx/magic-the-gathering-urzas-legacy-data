@@ -1,0 +1,113 @@
+---
+object: card
+id: 899088b3-4cdf-47c0-8c52-3c9f55c086c4
+oracle_id: a1fb6dfc-1dab-4337-8311-b4ab2ef336c0
+multiverse_ids:
+- 12349
+mtgo_id: 12605
+mtgo_foil_id: 12606
+tcgplayer_id: 6302
+cardmarket_id: 10587
+name: Delusions of Mediocrity
+lang: en
+released_at: '1999-02-15'
+uri: https://api.scryfall.com/cards/899088b3-4cdf-47c0-8c52-3c9f55c086c4
+scryfall_uri: https://scryfall.com/card/ulg/30/delusions-of-mediocrity?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/9/899088b3-4cdf-47c0-8c52-3c9f55c086c4.jpg?1562863298
+  normal: https://cards.scryfall.io/normal/front/8/9/899088b3-4cdf-47c0-8c52-3c9f55c086c4.jpg?1562863298
+  large: https://cards.scryfall.io/large/front/8/9/899088b3-4cdf-47c0-8c52-3c9f55c086c4.jpg?1562863298
+  png: https://cards.scryfall.io/png/front/8/9/899088b3-4cdf-47c0-8c52-3c9f55c086c4.png?1562863298
+  art_crop: https://cards.scryfall.io/art_crop/front/8/9/899088b3-4cdf-47c0-8c52-3c9f55c086c4.jpg?1562863298
+  border_crop: https://cards.scryfall.io/border_crop/front/8/9/899088b3-4cdf-47c0-8c52-3c9f55c086c4.jpg?1562863298
+mana_cost: "{3}{U}"
+cmc: 4.0
+type_line: Enchantment
+oracle_text: |-
+  When Delusions of Mediocrity enters the battlefield, you gain 10 life.
+  When Delusions of Mediocrity leaves the battlefield, you lose 10 life.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 78ced61b-4b8a-4b33-b6b2-f5bd66f1a75a
+set: ulg
+set_name: Urza's Legacy
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/78ced61b-4b8a-4b33-b6b2-f5bd66f1a75a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aulg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ulg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/899088b3-4cdf-47c0-8c52-3c9f55c086c4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa1fb6dfc-1dab-4337-8311-b4ab2ef336c0&unique=prints
+collector_number: '30'
+digital: false
+rarity: rare
+flavor_text: When nothing but second best will do.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff Laubenstein
+artist_ids:
+- 7c5b6391-2a5a-4b78-b19d-2b181149cb0f
+illustration_id: 805ebfd4-48c6-4b6e-afdb-b2061e869c90
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11227
+penny_rank: 13792
+prices:
+  usd: '0.79'
+  usd_foil: '26.65'
+  usd_etched: 
+  eur: '0.60'
+  eur_foil: '11.99'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12349
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Delusions+of+Mediocrity&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Delusions+of+Mediocrity&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Delusions+of+Mediocrity
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/6302?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Delusions+of+Mediocrity&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/12605?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
